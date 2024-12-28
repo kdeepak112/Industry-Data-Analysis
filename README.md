@@ -1,1 +1,2 @@
 # Industry-Data-Analysis
+This project analyzes the dataset of companies registered in India (1857-2020) to uncover trends in business activity, growth, and regional variations. Using Python, I connected to a local SQL database to efficiently execute and manage complex queries, showcasing my expertise in SQL. The integration of Python with SQL highlights my ability to handle data-driven insights and streamline database operations.
